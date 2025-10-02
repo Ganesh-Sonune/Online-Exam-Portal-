@@ -73,4 +73,4 @@ mvn spring-boot:run
 ## 👨‍💻 Author  
 **Ganesh Sonune**  
 📧 ganusonune4@gmail.com  
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/ganesh-sonune/)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ganesh-sonune/)
