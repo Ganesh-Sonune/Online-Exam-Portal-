@@ -1,4 +1,4 @@
-# 📘 Online Exam Portal (Spring Boot + MySQL)
+# 📘 Online Exam Portal 
 
 [![Spring Boot](https://img.shields.io/badge/SpringBoot-2.6.5-green.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/)
@@ -70,4 +70,7 @@ mvn spring-boot:run
 ```
 ---
 
-#👨‍💻 Author
+## 👨‍💻 Author  
+**Ganesh Sonune**  
+📧 ganusonune4@gmail.com  
+🔗 [LinkedIn Profile]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/ganesh-sonune/)
